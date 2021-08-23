@@ -1,2 +1,5 @@
 # the-vegan-argument
-Note of arguments for and against veganism
+
+## [See the wiki](https://github.com/rkotze/the-vegan-argument/wiki)
+
+
